@@ -7,15 +7,14 @@
 
 ## CSS
 speciale kleur code voor tabel
+>
 >`
 tbody tr:nth-child(even){
     background-color: #6facff;
-}
-`
->`
-tbody tr:nth-child(odd){
+}`
+>
+>`tbody tr:nth-child(odd){
     background-color: #4f8cef;
-}
-`
+}`
 ## Bootstrap
 
